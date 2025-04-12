@@ -4,5 +4,5 @@
 4.write ls -a to also see the hidden files  (staged means ->file is ready for commit)
 5.(git push origin main) is used to push the code on remote bole to on github
 6.kya be kya kar rahe ho
-
+7.git remote add origin (link of repo)
 
