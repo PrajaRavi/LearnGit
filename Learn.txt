@@ -1,0 +1,6 @@
+1.commit->means commitment simply (Remember that remote->github and local->laptop)
+2.agar hamne apne code me kuch bhi change kiya hai to sabse pahle hame use add karna hoga then use commit(change ab pakka ho gaya hai now we can push our code on github remote ) karna hoga commit(kisi bhi respective cheez ka screenshot lelo aur ise save kar lo in memory) 
+3.so we can say that git stores our history means it stores all the screenshot(commitment) taken by us 
+4.write ls -a to also see the hidden files  (staged means ->file is ready for commit)
+
+
